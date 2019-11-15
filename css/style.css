@@ -29,13 +29,13 @@
 	float: left;
 	text-decoration: none;
 	padding: 10px 20px;
-	color: #F97A09;
+	color: #000;
 }
 
 #navbar-container ul li a:hover{
 	text-decoration: underline overline;
 	display: block;
-	background-color: #F6F909;
+	background-color: #000;
 }
 
 #sidebar{
@@ -60,9 +60,9 @@
     color: #F97A09;
     text-decoration: none;
 }
-#sidebar-container ul li a:hover
+#sidebar-container a:hover
 {
-    background-color: #09F9E3;
+    background-color: red;
 }
 #sidebar-container a{
 	text-decoration: none;
