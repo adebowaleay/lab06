@@ -15,7 +15,7 @@
 	margin: 0;
 	padding: 0;
   position: relative;
-	right: 50%; /*?left?*/
+	left: 50%;
 }
 
 #navbar-container ul li{
@@ -29,7 +29,7 @@
 	float: left;
 	text-decoration: none;
 	padding: 10px 20px;
-	color: #fff;
+	color: #F97A09;
 }
 
 #navbar-container ul li a:hover{
