@@ -35,7 +35,7 @@
 #navbar-container ul li a:hover{
 	text-decoration: underline overline;
 	display: block;
-	background-color: ##F6F909;
+	background-color: #F6F909;
 }
 
 #sidebar{
@@ -57,12 +57,12 @@
 {
     display: block;
     padding: 15px 0;
-    color: ##F97A09;
+    color: #F97A09;
     text-decoration: none;
 }
 #sidebar-container ul li a:hover
 {
-    background-color: ##09F9E3;
+    background-color: #09F9E3;
 }
 #sidebar-container a{
 	text-decoration: none;
